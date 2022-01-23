@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# WELCOME TO MY PORTFOLIO #
+## __*Hey this is my portfolio!!*__ ##
+### *....WELCOME....* ###
