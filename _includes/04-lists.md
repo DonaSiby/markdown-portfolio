@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+  More about me...
+  - 👩‍🎓 Student
+  - Read books
+  - Listens music
+  - 😄
+  - Loves food
+  - ❤️❤️
