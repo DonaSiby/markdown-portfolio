@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Skills..__ 👩‍🎓
+- *Python*
+- *C programming*
+- *Java programming*
+- *html*
+- That's all about me...
+- ❤️❤️
